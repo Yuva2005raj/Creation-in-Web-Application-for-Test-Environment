@@ -44,16 +44,23 @@ test.php
 
 ## OUTPUT
 # TERMINAL
+![image](https://github.com/user-attachments/assets/92d227f7-c6ec-4c36-8423-526e3ee6ea94)
+![image](https://github.com/user-attachments/assets/7c3131bf-92fd-46c8-b41b-0a5316441b71)
+![image](https://github.com/user-attachments/assets/b382bcf9-3dc0-4b62-9e45-9a2d911d691f)
 
-![image](Op1-cc6.png)
 
-![image](Op2-cc6.png)
 
-![image](Op3-cc6.png)
+
+
+
+
+
+
+
 
 # WEBPAGE
 
-![image](Op4-cc6.png)
+![image](https://github.com/user-attachments/assets/81e806f5-a6b3-406d-bb39-da9665197e4c)
 
 ## RESULT
 Thus the web application for test environment has successfully been created and executed.
